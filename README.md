@@ -45,5 +45,4 @@ http://43.200.6.162:5000/predict
   
   
 #### ※ 본 API는 Spring으로 제작 된 다른 API와 연동되어 일부 기능을 추가하기 위해 제작 된 API입니다.
-연계 된 API 주소 : https://github.com/toy-f-rebellion/toy_back  
-
+연계 된 API 주소 : https://github.com/young91183/toy_back 
