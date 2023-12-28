@@ -20,9 +20,6 @@
 ```
   
 flask_api.py를 작동시키면 POST 형식을 통해 API를 사용 가능
-사용 예시를 위해 다음 주소에 배포 중   
-(POST Man 등을 활용해 Test 가능)  
-http://43.200.6.162:5000/predict
 
 ### How to use
 ● request (POST) :  
